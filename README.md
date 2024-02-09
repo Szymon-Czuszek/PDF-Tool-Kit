@@ -1,21 +1,25 @@
 # PDF-Tool-Kit
 
-PDF Merger
+## PDF Merger
 
 This Python script provides a simple Graphical User Interface (GUI) to merge multiple PDF files into a single PDF document.
 
-Prerequisites: 
+**Prerequisites:**
+
 Python 3.x
 Required Python packages (PyPDF2, tkinter)
 
-Installation: 
+**Installation:**
+
 Clone or download the repository to your local machine.
 Install the necessary Python packages if you haven't already:
-bash
-Copy code
-pip install PyPDF2
+- bash
+- Copy code
+- pip install PyPDF2
+- pip install tkinter
 
-Usage: 
+**Usage:**
+
 Run the script pdf_merger.py.
 A GUI window will appear.
 Click the "Merge PDFs" button.
@@ -24,12 +28,15 @@ Choose the destination folder where the merged PDF will be saved.
 Optionally, specify the name for the output PDF.
 Click "Save" or "OK" to complete the merging process.
 
-Notes: 
+**Notes:**
+
 If no output PDF name is provided, the default name will be set as merged.pdf.
 Any error during the merging process will be displayed in the result section of the GUI.
 
-Contributing: 
+**Contributing:**
+
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
 
-License: 
+**License:**
+
 This project is licensed under the MIT License.
