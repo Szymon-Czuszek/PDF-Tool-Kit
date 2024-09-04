@@ -21,6 +21,9 @@ Install the necessary Python packages if you haven't already:
 **Usage:**
 
 Run the script pdf_merger.py.
+```terminal
+python Merge_PDF.py
+```
 A GUI window will appear.
 Click the "Merge PDFs" button.
 Select the PDF files you want to merge using the file dialog.
