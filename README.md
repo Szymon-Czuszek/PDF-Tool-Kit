@@ -28,8 +28,8 @@ A GUI window will appear. Click the "Merge PDFs" button.
 <br> ![Pictures/app.png](Pictures/app.png) <br>
 Select the PDF files you want to merge using the file dialog.
 <br> ![Pictures/app.png](Pictures/input.png) <br>
-Choose the destination folder where the merged PDF will be saved.
-Optionally, specify the name for the output PDF.
+Choose the destination folder where the merged PDF will be saved. Optionally, specify the name for the output PDF.
+<br> ![Pictures/app.png](Pictures/output.png) <br>
 Click "Save" or "OK" to complete the merging process.
 
 **Notes:**
