@@ -24,8 +24,8 @@ Run the script pdf_merger.py.
 ```terminal
 python Merge_PDF.py
 ```
-A GUI window will appear.
-Click the "Merge PDFs" button.
+A GUI window will appear. Click the "Merge PDFs" button.
+<br> ![Pictures/app.png](Pictures/app.png) <br>
 Select the PDF files you want to merge using the file dialog.
 Choose the destination folder where the merged PDF will be saved.
 Optionally, specify the name for the output PDF.
