@@ -8,7 +8,7 @@ This Python script provides a simple Graphical User Interface (GUI) to decrypt m
 
 This Python script provides a simple Graphical User Interface (GUI) to merge multiple PDF files into a single PDF document.
 
-**Prerequisites:**
+**⚙️ Prerequisites:**
 
 Python 3.x
 Required Python packages (PyPDF2, tkinter)
