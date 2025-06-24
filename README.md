@@ -1,6 +1,6 @@
 # 📚 PDF-Tool-Kit
 
-## PDF Decrypter
+## 🔓 PDF Decrypter
 
 This Python script provides a simple Graphical User Interface (GUI) to decrypt multiple PDF files.
 
