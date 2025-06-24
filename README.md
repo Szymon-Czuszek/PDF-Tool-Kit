@@ -4,7 +4,7 @@
 
 This Python script provides a simple Graphical User Interface (GUI) to decrypt multiple PDF files.
 
-## PDF Merger
+## 🔗 PDF Merger
 
 This Python script provides a simple Graphical User Interface (GUI) to merge multiple PDF files into a single PDF document.
 
