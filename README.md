@@ -10,7 +10,7 @@ This Python script provides a simple Graphical User Interface (GUI) to merge mul
 
 **⚙️ Prerequisites:**
 
-Python 3.x
+- 🐍 Python 3.x
 Required Python packages (PyPDF2, tkinter)
 
 **Installation:**
