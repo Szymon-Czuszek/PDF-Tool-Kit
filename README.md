@@ -13,7 +13,7 @@ This Python script provides a simple Graphical User Interface (GUI) to merge mul
 - 🐍 Python 3.x
 - 📦 Required Python packages: PyPDF2, tkinter
 
-**Installation:**
+**📥 Installation:**
 
 Clone or download the repository to your local machine.
 Install the necessary Python packages if you haven't already:
