@@ -19,8 +19,11 @@ This Python script provides a simple Graphical User Interface (GUI) to merge mul
 2. 💻 Install the necessary Python packages if you haven't already:
 - bash
 - Copy code
-- pip install PyPDF2
-- pip install tkinter
+
+```terminal
+pip install PyPDF2
+pip install tkinter
+```
 
 **Usage:**
 
