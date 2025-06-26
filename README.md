@@ -23,9 +23,8 @@ pip install PyPDF2
 pip install tkinter
 ```
 
-**Usage:**
+**Run the script:**
 
-Run the script pdf_merger.py.
 ```terminal
 python Merge_PDF.py
 ```
