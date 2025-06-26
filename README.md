@@ -16,7 +16,7 @@ This Python script provides a simple Graphical User Interface (GUI) to merge mul
 **📥 Installation:**
 
 1. 📁 Clone or download the repository to your local machine.
-Install the necessary Python packages if you haven't already:
+2. 💻 Install the necessary Python packages if you haven't already:
 - bash
 - Copy code
 - pip install PyPDF2
