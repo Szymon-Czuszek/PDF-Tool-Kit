@@ -36,7 +36,7 @@ Choose the destination folder where the merged PDF will be saved. Optionally, sp
 <br> ![Pictures/app.png](Pictures/output.png) <br>
 Click "Save" or "OK" to complete the merging process.
 
-**Notes:**
+**📝 Notes:**
 
 If no output PDF name is provided, the default name will be set as merged.pdf.
 Any error during the merging process will be displayed in the result section of the GUI.
