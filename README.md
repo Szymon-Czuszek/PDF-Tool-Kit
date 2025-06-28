@@ -41,7 +41,7 @@ Click "Save" or "OK" to complete the merging process.
 - 📄 If no output PDF name is provided, the default name will be set as merged.pdf.
 - ⚠️ Any error during the merging process will be displayed in the result section of the GUI.
 
-**Contributing:**
+**🤝 Contributing:**
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
 
